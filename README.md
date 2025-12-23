@@ -2,7 +2,7 @@
 
 🧑‍🤝‍🧑 I thrive in **collaborative environments** <br>
 🌱 I’m currently mastering **Flutter** and exploring **AI agent frameworks**<br>  
-⚡ Fun fact: I still ship production‑ready code on my **3rd‑gen i5 desktop**<br> 
+⚡ I still ship production‑ready code on my **3rd‑gen i5 desktop**<br> 
 
 
 ## 🌐 Socials:
