@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-🧑‍🤝‍🧑 I thrive in **collaborative environments** <br>
-🌱 I’m currently mastering **Flutter** and exploring **AI agent frameworks**<br>  
-⚡ I still ship production‑ready code on my **3rd‑gen i5 desktop**<br> 
-
+🧑‍🤝‍🧑 I thrive in **collaborative environments**, contributing to team success while learning from peers<br>I’m currently mastering **Flutter** and exploring **AI agent frameworks** to expand my full‑stack expertise<br>⚡ Fun fact: I still ship production‑ready code on my **3rd‑gen i5 desktop** — persistence beats hardware
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhusman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tharikusman00@gmail.com) 
